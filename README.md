@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Anagha Honnali 👋 
+I'm a tech enthusiast interested in Machine Learning, Data Science and Generative AI.
+- 🔭 I’m currently working on Deep Learning Prediction models.
+- 🌱 I’m currently learning Natural Language Processing.
 
 <!--
 **anagha-h/anagha-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
