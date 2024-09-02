@@ -2,7 +2,7 @@
 I'm a tech enthusiast and developer interested in Machine Learning, Data Science, and Generative AI. I love deriving insightful findings from data!
 
 ## :star: About me 💫
-- 🔭 I’m currently working on Neetcode 150 (27/150).
+- 🔭 I’m working on completing Neetcode 150 (28/150).
 - 🌱 I’m currently learning advanced Natural Language Processing and Generative AI.
 - 👯 I’m looking to collaborate on and contribute to open-source projects.
 - 🤝 I’m in search of summer 2025 internship opportunities.
