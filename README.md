@@ -4,7 +4,7 @@ I'm a tech enthusiast and developer interested in Machine Learning, Data Science
 ## :star: About me 💫
 - 🌱 I’m currently learning advanced Data Science and Generative AI.
 - 👯 I’m looking to collaborate on and contribute to open-source projects.
-- 🤝 I’m in search of summer 2025 internship opportunities in Data Science, Data Engineering, and Software Engineering.
+- 🤝 I’m in search of opportunities in Data Science, Data Engineering, and Software Engineering.
   
 
 ## :star: Some of the tools, frameworks, and languages I've worked with are 💻
